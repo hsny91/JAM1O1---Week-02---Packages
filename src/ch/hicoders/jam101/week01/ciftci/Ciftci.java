@@ -22,5 +22,6 @@ public class Ciftci {
         tavukone.tavukIsim();
         int toplamTavukSayisi = tavuk.tavukSayisi();
         System.out.println("Toplam Tavuk Sayisi: " + toplamTavukSayisi);
+        System.out.println("Toplam Tavuk Sayisi: " + toplamTavukSayisi);
     }
 }
