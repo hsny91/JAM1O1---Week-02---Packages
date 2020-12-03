@@ -8,10 +8,10 @@ public class Ciftci {
     public static void main(String[] args) {
         //Inekler
         Inek inek=new Inek("aysem");
-        Inek inekone=new Inek();
+        Inek inekOne=new Inek();
         Inek inekTwo=new Inek("Fatma");
         inek.inekIsim();
-        inekone.inekIsim();
+        inekOne.inekIsim();
         inekTwo.inekIsim();
         int toplamInekSayisi=inek.inekSayisi();
         System.out.println("Toplam Inek Sayisi: "+toplamInekSayisi);
