@@ -8,7 +8,7 @@ public class Tavuk {
         toplamTavukSayisi ++;
     }
     public Tavuk() {
-        this.isim = "Tavuk+ Tavuk Sayisi";
+        this.isim = "Tavuk "+toplamTavukSayisi;
         toplamTavukSayisi ++;
     }
     public void tavukIsim() {

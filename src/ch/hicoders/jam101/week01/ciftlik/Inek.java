@@ -8,7 +8,7 @@ public class Inek {
         this.toplamInekSayisi++;
     }
     public Inek(){
-        this.isim="inek+inek sayisi";
+        this.isim="inek " +toplamInekSayisi ;
         this.toplamInekSayisi++;
     }
     public void inekIsim(){
